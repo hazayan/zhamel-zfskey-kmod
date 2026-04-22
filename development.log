@@ -1,0 +1,1 @@
+[00001] [2026-04-22T23:50:00Z] [IMPLEMENTATION] Scaffolded the standalone zhamel-zfskey-kmod repository with the extracted FreeBSD kernel module source, external kmod build Makefile, release workflow, repository documentation, and BSD-2-Clause licensing to keep the module separate from both zhamel and the foji-bsd ports tree.

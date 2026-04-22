@@ -1,0 +1,14 @@
+.deps
+*.core
+*.ko
+*.o
+*.opt_*
+*.order
+*.symvers
+*.tmp
+*.tmp_version
+*.lkpi
+.jj
+modules.order
+obj
+work
