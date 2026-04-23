@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: BSD-2-Clause
 
 KMOD=	zhamel_zfskey
-SRCS=	zhamel_zfskey.c
+SRCS=	zhamel_zfskey.c vnode_if.h
 
 SYSDIR?=	/usr/src/sys
 SRCTOP?=	${SYSDIR:H}
