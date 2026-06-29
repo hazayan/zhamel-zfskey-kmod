@@ -1,0 +1,1 @@
+[00001] [2026-06-29T22:49:26Z] [CI] Wired Forgejo tag source releases to consume Forge organization signing secrets and publish archives with SHA-256 checksums.
